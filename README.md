@@ -7,4 +7,4 @@ password - password
 2. npm install 
 3. npm start
 
-You should now see the demo tutorial on the react page with tootips pointers.
+You should now see the demo tutorial on the react page with tootips pointers on localhost:3000
